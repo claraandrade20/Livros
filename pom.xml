@@ -43,11 +43,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		<!-- Spring Cloud Eureka Client -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-		</dependency>
 		<!-- Spring Cloud OpenFeign para comunicação entre microsserviços -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
